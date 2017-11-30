@@ -1,7 +1,7 @@
 # Coderbyte
 
-My solutions.
+My solutions to [Codebyte](https://www.coderbyte.com/) problems.
 
-Heitor Silva<br>
-http://www.heitorsilva.com/<br>
-http://blog.heitorsilva.com/
+## Profile
+
+[https://coderbyte.com/profile/heitorsilva](https://coderbyte.com/profile/heitorsilva)
